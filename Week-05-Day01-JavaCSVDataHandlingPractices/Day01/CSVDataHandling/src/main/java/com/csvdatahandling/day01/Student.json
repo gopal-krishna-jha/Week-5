@@ -1,0 +1,22 @@
+[
+  {"ID": "1", "NAME": "Aarav Sharma", "AGE": "17", "MARKS": "85", "GRADE": "A"},
+  {"ID": "2", "NAME": "Ishita Verma", "AGE": "16", "MARKS": "92", "GRADE": "A+"},
+  {"ID": "3", "NAME": "Rohit Patel", "AGE": "18", "MARKS": "78", "GRADE": "B+"},
+  {"ID": "4", "NAME": "Sneha Gupta", "AGE": "17", "MARKS": "89", "GRADE": "A"},
+  {"ID": "5", "NAME": "Karan Singh", "AGE": "16", "MARKS": "74", "GRADE": "B"},
+  {"ID": "6", "NAME": "Priya Kumar", "AGE": "17", "MARKS": "95", "GRADE": "A+"},
+  {"ID": "7", "NAME": "Aditya Das", "AGE": "18", "MARKS": "67", "GRADE": "C+"},
+  {"ID": "8", "NAME": "Neha Mehta", "AGE": "17", "MARKS": "88", "GRADE": "A"},
+  {"ID": "9", "NAME": "Rakesh Rao", "AGE": "18", "MARKS": "83", "GRADE": "B+"},
+  {"ID": "10", "NAME": "Swati Sen", "AGE": "16", "MARKS": "91", "GRADE": "A+"},
+  {"ID": "11", "NAME": "Mohan Jain", "AGE": "18", "MARKS": "72", "GRADE": "B"},
+  {"ID": "12", "NAME": "Alka Roy", "AGE": "17", "MARKS": "86", "GRADE": "A"},
+  {"ID": "13", "NAME": "Deepak Shah", "AGE": "17", "MARKS": "79", "GRADE": "B+"},
+  {"ID": "14", "NAME": "Sunita Chawla", "AGE": "16", "MARKS": "93", "GRADE": "A+"},
+  {"ID": "15", "NAME": "Rahul Singh", "AGE": "18", "MARKS": "77", "GRADE": "B+"},
+  {"ID": "16", "NAME": "Anjali Iyer", "AGE": "17", "MARKS": "84", "GRADE": "A"},
+  {"ID": "17", "NAME": "Manish Yadav", "AGE": "16", "MARKS": "70", "GRADE": "B"},
+  {"ID": "18", "NAME": "Pooja Joshi", "AGE": "17", "MARKS": "90", "GRADE": "A"},
+  {"ID": "19", "NAME": "Vikram Singh", "AGE": "18", "MARKS": "66", "GRADE": "C+"},
+  {"ID": "20", "NAME": "Sakshi Desai", "AGE": "16", "MARKS": "87", "GRADE": "A"}
+]
